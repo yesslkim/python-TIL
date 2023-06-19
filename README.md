@@ -1,2 +1,7 @@
-# python-TIL
-1일 1파이썬 도전 🔥
+# Python TIL
+
+- Python 공부를 기록한 `.md`파일 모음집 🍈
+
+## TIL
+
+- [230619 - Numbers and Operators](./230619.md)
