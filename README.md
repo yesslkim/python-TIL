@@ -5,3 +5,4 @@
 ## TIL
 
 - [230619 - Numbers and Operators](./230619.md)
+- [230620 - Variables](./230620.md)
